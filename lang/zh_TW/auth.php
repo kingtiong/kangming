@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'failed' => '帳戶資訊與我們的記錄不符。',
+    'password' => '密碼錯誤。',
+    'throttle' => '嘗試次數過多,請於 :seconds 秒後再試。',
+
+    'login_title' => '登入穅洺',
+    'login_subtitle' => '歡迎回來,請輸入您的帳戶資訊。',
+    'email' => '電子郵件',
+    'password_label' => '密碼',
+    'remember_me' => '記住我',
+    'sign_in' => '登入',
+    'demo_heading' => '快速示範登入',
+    'demo_password_hint' => '密碼:kangming123',
+    'demo_sign_in_as' => '以 :role 身分登入',
+    'demo_role_admin' => '管理員',
+    'demo_role_teacher' => '老師',
+    'demo_role_student' => '學生',
+    'demo_role_client' => '客戶',
+    'new_here' => '初次來到穅洺?',
+    'create_account' => '建立帳戶',
+
+    'register_title' => '加入穅洺',
+    'register_subtitle' => '作為客戶(病患)或學生(學員)註冊。',
+    'full_name' => '姓名',
+    'phone' => '電話',
+    'i_am_a' => '我是...',
+    'role_client' => '客戶(病患)',
+    'role_student' => '學生(學員)',
+    'preferred_branch' => '首選分院',
+    'any_branch' => '-- 任意分院 --',
+    'confirm_password' => '確認密碼',
+    'create_account_btn' => '建立帳戶',
+    'already_member' => '已是會員?',
+];

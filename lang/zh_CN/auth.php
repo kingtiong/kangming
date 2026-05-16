@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'failed' => '账户信息与我们的记录不符。',
+    'password' => '密码错误。',
+    'throttle' => '尝试次数过多,请于 :seconds 秒后再试。',
+
+    'login_title' => '登录穅洺',
+    'login_subtitle' => '欢迎回来,请输入您的账户信息。',
+    'email' => '电子邮件',
+    'password_label' => '密码',
+    'remember_me' => '记住我',
+    'sign_in' => '登录',
+    'demo_heading' => '快速演示登录',
+    'demo_password_hint' => '密码:kangming123',
+    'demo_sign_in_as' => '以 :role 身份登录',
+    'demo_role_admin' => '管理员',
+    'demo_role_teacher' => '老师',
+    'demo_role_student' => '学生',
+    'demo_role_client' => '客户',
+    'new_here' => '初次来到穅洺?',
+    'create_account' => '建立账户',
+
+    'register_title' => '加入穅洺',
+    'register_subtitle' => '作为客户(病患)或学生(学员)注册。',
+    'full_name' => '姓名',
+    'phone' => '电话',
+    'i_am_a' => '我是...',
+    'role_client' => '客户(病患)',
+    'role_student' => '学生(学员)',
+    'preferred_branch' => '首选分院',
+    'any_branch' => '-- 任意分院 --',
+    'confirm_password' => '确认密码',
+    'create_account_btn' => '建立账户',
+    'already_member' => '已是会员?',
+];

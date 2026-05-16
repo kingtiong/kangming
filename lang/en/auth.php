@@ -1,0 +1,36 @@
+<?php
+
+return [
+    'failed' => 'These credentials do not match our records.',
+    'password' => 'The provided password is incorrect.',
+    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+
+    'login_title' => 'Sign in to Kang Ming',
+    'login_subtitle' => 'Welcome back. Please enter your details.',
+    'email' => 'Email',
+    'password_label' => 'Password',
+    'remember_me' => 'Remember me',
+    'sign_in' => 'Sign in',
+    'demo_heading' => 'Quick demo login',
+    'demo_password_hint' => 'password: kangming123',
+    'demo_sign_in_as' => 'Sign in as :role',
+    'demo_role_admin' => 'Admin',
+    'demo_role_teacher' => 'Teacher',
+    'demo_role_student' => 'Student',
+    'demo_role_client' => 'Client',
+    'new_here' => 'New to Kang Ming?',
+    'create_account' => 'Create an account',
+
+    'register_title' => 'Join Kang Ming',
+    'register_subtitle' => 'Register as a client (patient) or student (learner).',
+    'full_name' => 'Full name',
+    'phone' => 'Phone',
+    'i_am_a' => 'I am a...',
+    'role_client' => 'Client (Patient)',
+    'role_student' => 'Student (Learner)',
+    'preferred_branch' => 'Preferred branch',
+    'any_branch' => '-- Any branch --',
+    'confirm_password' => 'Confirm password',
+    'create_account_btn' => 'Create account',
+    'already_member' => 'Already a member?',
+];
